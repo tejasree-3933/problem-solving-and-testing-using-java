@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VTU25044_w1 {
+public class VTU25044_w1_Maxnumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] arr = {12,34,56,78,90};
@@ -17,3 +17,4 @@ public class VTU25044_w1 {
 
     }
 }
+
